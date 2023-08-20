@@ -1,3 +1,5 @@
+# © 2023 NBA Media Ventures, LLC. All rights reserved.
+
 install.packages("tidyverse")
 install.packages("dplyr")
 library(tidyverse)
